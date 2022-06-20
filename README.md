@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dev-Life](https://github.com/lucidawareness/Dev-Life)
 
-- 💬 Ask me about **react, django, java, js**
+- 💬 Ask me about ** java, spring, js, react, django**
 
 - 📫 How to reach me **ruizirvin084@gmail.com**
 
